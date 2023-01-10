@@ -1,6 +1,6 @@
 alert('Калькулятор');
 
-const whatDo = (prompt('add (+), sub (-), mult (/), div(*)'));
+const whatDo = (prompt('add (+), sub (-), mult (*), div(/)'));
 
 const firstNumber = +(prompt('Вкажіть першу цифру'));
 
